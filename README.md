@@ -4,10 +4,6 @@
 - 👨 He/Him
 - 🌈 Gay
 ---
-### Social Media
-- [Twitter](https://twitter.com/HiItsDevin_)
-- [Steam](https://steamcommunity.com/id/hiitsdevin_)
----
 ### Projects I've worked on:
 - [G4X](https://github.com/team-g4/G4X)
 - [HiItsDevin_'s Home Environment - SteamVR](https://steamcommunity.com/sharedfiles/filedetails/?id=2152311955)
@@ -23,5 +19,3 @@
   - Bootloader: GRUB
 
 - VR Headset: Samsung HMD Odyssey+ [Windows Mixed Reality]
-<!--
-**HiItsDevin/HiItsDevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
