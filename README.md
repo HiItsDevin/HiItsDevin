@@ -5,7 +5,7 @@
 - 🌈 Gay
 ---
 ### Projects I've worked on:
-- [G4X](https://github.com/team-g4/G4X)
+- [G4X - An infinite puzzle rage game by Team G4 ported to Windows, macOS, and Linux](https://github.com/team-g4/G4X)
 - [HiItsDevin_'s Home Environment - SteamVR](https://steamcommunity.com/sharedfiles/filedetails/?id=2152311955)
 ---
 ### Current Configuration
