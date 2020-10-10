@@ -10,11 +10,11 @@
 ---
 ### Current Configuration
 - 💻 Main laptop: 
-  - AMD Ryzen 7 3750H / NVIDIA GTX 1660ti Max-Q + AMD RX VEGA 10 iGPU / 16GB DDR4-2400 RAM / 1 500GB NVMe + 1 512GB NVMe
+  - AMD Ryzen 7 3750H / NVIDIA GTX 1660ti Max-Q + AMD RX VEGA 10 iGPU / 24GB DDR4-2400 RAM / 1 500GB NVMe + 1 512GB NVMe
   - OS: Windows 10 1909 + Arch Linux
   - Bootloader: rEFInd
 - 🖥️ Frankenlaptop [damaged screen, attached to Monitor through HDMI]
-  - Intel Core i5 8250U / Intel UHD 620 iGPU / 24GB DDR4-2400 RAM / 1 128GB Full Sized SATA SSD
+  - Intel Core i5 8250U / Intel UHD 620 iGPU / 16GB DDR4-2400 RAM / 1 128GB Full Sized SATA SSD
   - OS: Pop!_OS by System76
   - Bootloader: GRUB
 
