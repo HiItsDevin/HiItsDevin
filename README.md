@@ -15,7 +15,7 @@
   - OS: Windows 10 20H2 + macOS
   - Bootloader: OpenCore
 - 💻 Main laptop: 
-  - AMD Ryzen 7 3750H / NVIDIA GTX 1660ti Max-Q + AMD RX VEGA 10 iGPU / 24GB DDR4-2400 RAM / 1 500GB NVMe + 1 512GB NVMe
+  - AMD Ryzen 7 3750H / NVIDIA GTX 1660ti Max-Q + AMD RX VEGA 10 iGPU / 16GB DDR4-2400 RAM / 1 500GB NVMe
   - OS: Windows 10 20H2
   - Bootloader: Windows Boot Manager
 
