@@ -8,6 +8,8 @@
 - [G4X - An infinite puzzle rage game by Team G4 ported to Windows, macOS, and Linux](https://github.com/team-g4/G4X)
 - [HiItsDevin_'s Home Environment - SteamVR](https://steamcommunity.com/sharedfiles/filedetails/?id=2152311955)
 - [Cyberpunk 2077 Patched [outdated]](https://www.nexusmods.com/cyberpunk2077/mods/188/?tab=forum&topic_id=9417603)
+- [Consistency+ Fabric Mod](https://github.com/ConsistencyPlus/ConsistencyPlus)
+- [Devin's Useless Mod](https://github.com/devOS-Sanity-Edition/devinsuselessmod)
 ---
 ### Current Configuration
 - 🖥️ Main Tower
