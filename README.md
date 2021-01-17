@@ -3,6 +3,10 @@
 ### Personal Details:
 - 👨 He/Him
 - 🌈 Gay
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiItsDevin&exclude_repo=ls,LOAS,Thoda)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HiItsDevin_)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Projects I've worked on:
 - [G4X - An infinite puzzle rage game by Team G4 ported to Windows, macOS, and Linux](https://github.com/team-g4/G4X)
