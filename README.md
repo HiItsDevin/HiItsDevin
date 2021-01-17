@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiItsDevin&exclude_repo=ls,LOAS,Thoda)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Devin's github stats](https://github-readme-stats.vercel.app/api?username=HiItsDevin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HiItsDevin_)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Projects I've worked on:
