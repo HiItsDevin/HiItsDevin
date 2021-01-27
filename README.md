@@ -15,7 +15,7 @@
 - [HiItsDevin_'s Home Environment - SteamVR](https://steamcommunity.com/sharedfiles/filedetails/?id=2152311955)
 - [Cyberpunk 2077 Patched [outdated]](https://www.nexusmods.com/cyberpunk2077/mods/188/?tab=forum&topic_id=9417603)
 - [Consistency+ Fabric Mod](https://github.com/ConsistencyPlus/ConsistencyPlus)
-- [Devin's Useless Mod](https://github.com/devOS-Sanity-Edition/devinsuselessmod)
+- [Pastel Wonderland Fabric Mod](https://github.com/devOS-Sanity-Edition/pastelwonderland)
 ---
 ### Current Configuration
 - 🖥️ Main Tower
